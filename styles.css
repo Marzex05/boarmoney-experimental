@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+
+
+body{
+    background-color: #222222;
+    padding: 2px;
+   }
+
+p, h1, h2, h3, h4{
+    color: aliceblue    ;
+
+
+}
+
+#extra{
+    background-color: rgb(13, 13, 13);
+
+}
+
+#myNavbar {
+    background-color: rgb(13, 13, 13);
+
+}
+
+
+#musique-text {
+
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 0px;
+    background-color: rgb(13, 13, 13);
+
+
+}
+
+.well {
+    border-color: rgb(24, 24, 24)!important; 
+    background: rgb(50, 47, 47)!important;
+    width: 75%;
+}
+
+#code {
+    background-color: rgb(50, 47, 47);
+    margin-inline-start: 0%;
+    margin-inline-end: 100%;
+
+}
+
+code {
+    width: 100%;
+    min-height: 30rem;
+    font-family: "Lucida Console", Monaco, monospace;
+    line-height: 1.2;
+
+
+}
